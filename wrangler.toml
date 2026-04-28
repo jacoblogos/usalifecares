@@ -1,0 +1,7 @@
+name = "usalifecares-new"
+main = "worker.js"
+compatibility_date = "2026-04-20"
+
+[[kv_namespaces]]
+binding = "POSTS_KV"
+id = "93b80f959d54455690cb76908a1e3a34"
